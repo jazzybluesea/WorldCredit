@@ -3,4 +3,4 @@
 ################################################################################
 
 /.vs
-/truffle_contract/node_modules
+/truffle/node_modules
