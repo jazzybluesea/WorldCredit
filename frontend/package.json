@@ -1,0 +1,19 @@
+{
+  "name": "worldcreditfrontend",
+  "version": "1.0.0",
+  "description": "World Credit Web Front End",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jazzybluesea/WorldCredit.git"
+  },
+  "author": "Sergio Wong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jazzybluesea/WorldCredit/issues"
+  },
+  "homepage": "https://github.com/jazzybluesea/WorldCredit#readme"
+}

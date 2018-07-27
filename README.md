@@ -1,7 +1,6 @@
 # WorldCredit
 
 <b>Backend Setup</b>
-
   1. Install truffle environemnt. (https://github.com/trufflesuite/truffle)
   2. Install OpenZeppelin library. (https://github.com/OpenZeppelin/openzeppelin-solidity)
   
